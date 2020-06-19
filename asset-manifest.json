@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Arturo.Carcamo/static/css/main.5f05969b.chunk.css",
-    "main.js": "/Arturo.Carcamo/static/js/main.8d26afd1.chunk.js",
-    "main.js.map": "/Arturo.Carcamo/static/js/main.8d26afd1.chunk.js.map",
+    "main.js": "/Arturo.Carcamo/static/js/main.583b1caf.chunk.js",
+    "main.js.map": "/Arturo.Carcamo/static/js/main.583b1caf.chunk.js.map",
     "runtime-main.js": "/Arturo.Carcamo/static/js/runtime-main.7fc6e234.js",
     "runtime-main.js.map": "/Arturo.Carcamo/static/js/runtime-main.7fc6e234.js.map",
     "static/css/2.de424728.chunk.css": "/Arturo.Carcamo/static/css/2.de424728.chunk.css",
     "static/js/2.448dd0be.chunk.js": "/Arturo.Carcamo/static/js/2.448dd0be.chunk.js",
     "static/js/2.448dd0be.chunk.js.map": "/Arturo.Carcamo/static/js/2.448dd0be.chunk.js.map",
     "index.html": "/Arturo.Carcamo/index.html",
-    "precache-manifest.3a47d1113b5d332045f2c99cb68c956e.js": "/Arturo.Carcamo/precache-manifest.3a47d1113b5d332045f2c99cb68c956e.js",
+    "precache-manifest.935e8296c9d4abbda918844dabe3769e.js": "/Arturo.Carcamo/precache-manifest.935e8296c9d4abbda918844dabe3769e.js",
     "service-worker.js": "/Arturo.Carcamo/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/Arturo.Carcamo/static/css/2.de424728.chunk.css.map",
     "static/css/main.5f05969b.chunk.css.map": "/Arturo.Carcamo/static/css/main.5f05969b.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.448dd0be.chunk.js",
     "static/css/main.5f05969b.chunk.css",
-    "static/js/main.8d26afd1.chunk.js"
+    "static/js/main.583b1caf.chunk.js"
   ]
 }

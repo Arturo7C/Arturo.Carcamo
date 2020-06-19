@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e934c459b1955c1a85f5cacf04060ad",
+    "revision": "d0714cd20ec6aa1c4c19a7a2e69f2e59",
     "url": "/Arturo.Carcamo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arturo.Carcamo/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "f78a50a8bec80e073811",
+    "revision": "843e91bc8637fb032d6a",
     "url": "/Arturo.Carcamo/static/css/main.5f05969b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arturo.Carcamo/static/js/2.448dd0be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f78a50a8bec80e073811",
-    "url": "/Arturo.Carcamo/static/js/main.8d26afd1.chunk.js"
+    "revision": "843e91bc8637fb032d6a",
+    "url": "/Arturo.Carcamo/static/js/main.583b1caf.chunk.js"
   },
   {
     "revision": "7ef9c8be97a693999be8",
