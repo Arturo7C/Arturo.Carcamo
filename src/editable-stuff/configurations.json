@@ -1,0 +1,54 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Arturo ",
+  "MiddleName": "",
+  "LastName": "Carcamo",
+  "devDesc": "| Software Engineer | Data Scientist | Graduate Student | Gamer",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/Arturo7C",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/arturo-carcamo-191379159/",
+      "style": "socialicons"
+    },
+    {
+      "id": 4,
+      "image": "fa-twitter",
+      "url": "https://www.twitter.com/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "arturo.zzz",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "Software engineer successful at working with teams, driving progress toward project milestones, with quality assurance and on-time delivery. Experienced at creating data regression models, collecting, analyzing and interpreting large datasets, using predictive data modeling, and analyzing data mining algorithms to deliver insights and implement action-oriented solutions to problems",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "Arturo7C",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 4,
+  "showNavigationbar": true,
+  "showBlog": false
+}
